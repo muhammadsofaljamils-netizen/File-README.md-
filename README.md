@@ -1,5 +1,10 @@
 # File-README.md-
 File README.md 
+1.	Link Repository GitHub
+https://github.com/muhammadsofaljamils-netizen/UAS-KAIT-Repository-Github-3.git
+2.	Link GitHub Pages (live website)
+https://muhammadsofaljamils-netizen.github.io/UAS-KAIT-Repository-Github-3/
+
 # ☕ Sofi Coffee Shop — Web Application
 
 Aplikasi web e-commerce single-page untuk coffee shop, mencakup katalog produk, keranjang belanja, checkout, sistem akun pelanggan, ulasan produk, dan dashboard admin — seluruhnya berjalan di satu file `index.html` tanpa backend server.
